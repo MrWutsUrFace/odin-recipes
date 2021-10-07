@@ -4,6 +4,6 @@ This before the project tho
 
 
 This is after :)
-
+Soooo, I made the website. It was a lil' hard but I got it. I had images, hrefs, messed with the terminal and git a lil' bit and some more. 
 
 
